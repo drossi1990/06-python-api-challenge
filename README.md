@@ -6,3 +6,4 @@ List of changes
 4. updating readme
 5. code for generating random city data using citipy
 6. updating readme
+7. created dataframe containing random cities, their country codes, and empty lists for later assignment requirements. 
